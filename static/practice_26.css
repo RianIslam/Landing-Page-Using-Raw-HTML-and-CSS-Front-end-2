@@ -1,0 +1,446 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1400px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+    overflow: hidden;
+  }
+.navbar{
+   width: 100%;
+    overflow: hidden;
+}
+.logo{
+width: 300px;
+float: left;
+overflow: hidden;
+margin-top:40px;
+}
+.menubar{
+width: 700px;
+float: left;
+display: block;
+overflow: hidden;
+    margin-top: 50px
+}
+.menubar li{
+float: left;
+list-style: none;
+padding: 0px 35px
+}
+.menubar a{
+text-decoration: none;
+    transition: 0.5s ease-in-out;
+
+}
+.getstartbtn button{
+    padding: 10px 30px;
+    margin-top: 40px;
+    background: blue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    letter-spacing: 2;
+    transition: 0.5s ease-in-out;
+    margin-left: 200px;
+}
+.getstartbtn button:hover{
+   background: pink;
+}
+.menubar a:hover{
+    color: pink;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1,h2,h3,h4,h5,span{
+    font-family: 'Acme', sans-serif;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Ranchers', cursive;
+
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.headerman{
+width: 600px;
+    overflow: hidden;
+    margin-top:170px;
+    float:left;
+}
+.manimg{
+    float: left;
+    overflow: hidden;
+    width: 600px;
+    margin-top: 70px;
+    margin-left: 200px;
+    
+}
+.manimg img{
+    width: 100%;
+}
+.manline h1{
+    padding: 40px;
+    font-size: 50px;
+    
+}
+.manpara{
+padding: 40px;
+}
+.manbtn{
+    padding: 40px;
+}
+.manbtn button{
+    padding: 15px 50px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background: blue;
+    letter-spacing: 3;
+    transition: 0.5s ease-in-out;
+    box-shadow: 2px 2px 10px blue
+}
+.manbtn button:hover{
+    background: rgb(55, 118, 219);
+}
+.headboxone{
+width: 120px;
+  overflow: hidden;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-left: 730px;
+    position: absolute;
+    margin-top: 600
+}
+.boxoneimg img{
+    width:50px;
+    height:50px; 
+    border-radius: 100%;
+    margin-top: 30px;
+    margin-left: 35px;
+    
+}
+.boxownarname{
+    text-align: center;
+    padding:20px;
+}
+.boxsocial{
+    text-align: center;
+    
+}
+.boxsocial i{
+    padding:10px;
+}
+body{
+    background: rgb(220, 232, 255);
+}
+.headboxtwo{
+    width: 200px;
+    background: white;
+    overflow: hidden;
+    border-radius: 10px;
+    position: absolute;
+    margin-left: 1000;
+    margin-top:900px;
+}
+.middlebox h3{
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.middlebox p{
+    margin-top: 10px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+.headerrows{
+   padding-bottom: 50px;
+}
+.rowone span{   
+    padding-left:30px;
+    background: rgb(255, 132, 152);
+    margin-left: 30px;   
+}
+.rowone{
+    float: left;
+}
+.rowtwo{
+    float: left;
+}
+.rowtwo span{
+     padding-left:30px;
+    background: rgb(112, 224, 251);
+    margin-left: 30px;
+    padding-top: 15px;
+}
+.rowthree{
+float: left;
+}
+.rowthree span{
+     padding-left:30px;
+    background: rgb(90, 90, 255);
+    margin-left: 30px;
+    padding-top: 30;
+}
+
+section{
+    padding-top: 90px;
+    overflow: hidden;
+}
+.traficheader{
+    float: left;
+    width: 300px;
+    overflow: hidden;
+    font-size: 30
+}
+.traficsociel{
+    float: left;
+    margin-left: 900px; 
+    margin-top: 50px;
+}
+.traficsociel i:first-child{
+    background: blue;
+    padding:10px;
+}
+.traficsociel i:last-child{
+    background: pink;
+    padding: 10px;
+    margin-left: 10px;
+}
+.socialmedia{
+    overflow: hidden;
+    margin-bottom: 30px;
+    margin-left: 200px;
+    
+}
+.analytics{
+    float: left;
+    width: 300px;
+    overflow: hidden;
+    margin-left: 50px;
+    
+}
+.analytics i{
+    padding: 15px 15px;
+    background: skyblue;
+    color: white;
+    border-radius:10px;
+    margin-bottom: 20px;
+}
+.analytics h1{
+    margin-bottom: 20px;
+}
+.analytics p{
+    line-height:1.3;
+}
+.this{
+    width: px;
+    overflow: hidden;
+}
+.thisimg img{
+    width: 40px;
+    height: 20px
+    overflow: hidden;
+}
+.thisimg{
+    float: left;
+    overflow: hidden;
+}
+.thispara{
+    float: left;
+    overflow: hidden;
+    padding-left: 30px;
+}
+
+.help{
+width: 600px;
+    overflow: hidden;
+}
+.helpimg{
+width: 200px;
+    overflow: hidden;
+    background: white;
+    box-shadow: 5px 5px 5px #ddd;
+    border-radius: 6px;
+    margin-left: 80px;
+    overflow: hidden;
+    
+}
+
+.helpimg img{
+    width: 100%;
+   
+}
+.helpimgtwo{
+    width: 200px;
+    overflow: hidden;  
+}
+.helpimgtwo img{
+width: 200px;
+}
+.helpimg h4{
+   padding: 20px;
+}
+.helpimg p{
+padding: 20px;
+}
+.helpimgtwo{
+border:1px solid #ddd;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    
+    box-shadow: 10px 8px 10px #ddd;
+   margin-left: 300px;
+    margin-top: -200px;
+    overflow: hidden;
+}
+.helpimgtwo h4{
+padding: 20px;}
+.helpimgtwo p{
+    padding: 20px;
+}
+.help{
+    float: left;
+}
+.helpdetailes{
+    width: 500px;
+    float: left;
+    overflow: hidden;
+    margin-left: 100px;
+}
+.helpdetailes h1{
+    margin-top: 30px;
+    font-size: 40px;
+    padding: 20px;
+}
+.helpdetailes p{
+    padding: 20px;
+    line-height:1.3
+}
+.helpdetailes button{
+padding: 10px 40px;
+color:wheat;
+    background: blue;
+    letter-spacing: 1;
+    margin-left: 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 3px 4px 4px 3px blue;
+    
+}
+.instaimg{
+float: left;
+    width: 400px;
+    overflow: hidden;
+}
+.instaimg img{
+width: 100%;
+}
+.instainfo{
+    overflow: hidden;
+    float: left;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+.instainfo h2{
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+.instainfo p{
+    line-height: 1.2;
+    margin-bottom: 40px;
+}
+.instagram{
+    margin-left: 100px;
+}
+
+.bluebox{
+    width: 100%;
+    background: blue;
+    border-radius: 15px;
+    overflow: hidden;
+    
+}
+.blueinfo{
+    width: 400px;
+    overflow: hidden;
+    color: white;
+    float: left;
+    margin-left:100px;
+}
+.form{
+    float: left;
+    overflow: hidden;
+    width: 300px;
+    
+}
+.blueinfo h1{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    
+}
+.blueinfo p{
+    line-height: 1.2;
+    margin-bottom: 70px;
+}
+.form{
+    float: left;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.form input:first-child{
+    padding: 15px 90px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border: none;
+    
+}
+.form input:last-child{
+    padding: 12px 15px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    margin-left: -120px;
+    border: none;
+    background: blue;
+    color: white;
+}
+.lsone{
+    width: 200px;
+    overflow: hidden;
+    float: left;
+}
+.lstwo{
+    width: 250px;
+    overflow: hidden;
+    float: left;
+}
+.lstwo p{
+    line-height: 2;
+}
+.lsone i{
+    background: skyblue;
+    padding: 10px;
+    color: white;
+    border-radius: 40px;
+    margin-top: 10px;
+}
+.lsone h3{
+    margin-top: 10px;
+}
+.last{
+    overflow: hidden;
+    margin-bottom: 70px;
+    margin-left:150
+}
+.lstwo:last-child{
+    margin-left: 0;
+}
